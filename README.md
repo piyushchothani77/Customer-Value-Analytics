@@ -65,11 +65,12 @@ Customer loyalty and value vary across regions, revealing opportunities for targ
 
 ## Deliverables
 
-* SQL-Based Customer Analysis Report
-* Customer Segmentation Framework
-* Power BI Founder Intelligence Dashboard
-* Customer Retention Playbook
-* Executive Summary Report
+- SQL-Based Customer Analysis Report
+- Customer Segmentation Framework
+- Power BI Founder Intelligence Dashboard (.pbix)
+- Power BI Dashboard Report (.pdf)
+- Customer Retention Playbook
+- Executive Summary Report
 
 ---
 
@@ -77,13 +78,14 @@ Customer loyalty and value vary across regions, revealing opportunities for targ
 
 ```text
 customer_intelligence_dataset.csv
-project_dashboard.pbix
-SQL_Analysis_Report.pdf
-Customer_Retention_Playbook.pdf
+Dataset.csv
+Feature_Engineering.ipynb
+SQL_Analysis.pdf
 Executive_Summary.pdf
+PowerBI_Dashboard.pdf
+Decoding_Customer_Value_Dashboard.pbix
 README.md
 ```
-
 ---
 
 ## Team Contributions
@@ -107,12 +109,14 @@ README.md
 * Sustainable Revenue Growth
 
 ---
-
 ## Dashboard Preview
 
-*Add Power BI Dashboard Screenshot Here*
+The repository includes:
 
----
+- `Decoding_Customer_Value_Dashboard.pbix` – Interactive Power BI project file.
+- `PowerBI_Dashboard.pdf` – Exported dashboard report for easy viewing without Power BI Desktop.
+
+Users without Power BI installed can review the dashboard through the PDF version.
 
 ## Authors
 
