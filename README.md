@@ -116,7 +116,7 @@ README.md
 * Sustainable Revenue Growth
 
 ---
-## Authors
+## Team
 
 * Piyush Chothani
 * Jimmy Khanpara
