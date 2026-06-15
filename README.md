@@ -1,4 +1,4 @@
-# Decoding Customer Value: Customer Intelligence & Retention Analytics
+# Decoding Customer Value: A SQL-Driven Retention Strategy
 <p align="center">
   <img src="PowerBI Dashboard.jpeg" width="900">
 </p>
@@ -75,7 +75,7 @@ Customer loyalty and value vary across regions, revealing opportunities for targ
 - SQL-Based Customer Analysis Report
 - Customer Segmentation Framework
 - Power BI Founder Intelligence Dashboard (.pbix)
-- Power BI Dashboard Report (.jpeg)
+- Power BI Dashboard Screenshot
 - Customer Retention Playbook
 - Executive Summary Report
 
