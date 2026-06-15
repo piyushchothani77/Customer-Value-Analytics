@@ -86,7 +86,7 @@ Customer loyalty and value vary across regions, revealing opportunities for targ
 ```text
 customer_intelligence_dataset.csv
 Dataset.csv
-Feature_Engineering.ipynb
+IITG_project.ipynb
 SQL_Analysis.pdf
 Executive_Summary.pdf
 Power BI_Dashboard.jpeg
