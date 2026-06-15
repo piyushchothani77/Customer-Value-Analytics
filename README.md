@@ -1,4 +1,11 @@
 # Decoding Customer Value: Customer Intelligence & Retention Analytics
+<p align="center">
+  <img src="PowerBI Dashboard.jpeg" width="900">
+</p>
+
+<p align="center">
+  <em>Figure 1: Customer Intelligence Dashboard developed using Power BI</em>
+</p>
 
 ## Project Overview
 
@@ -68,7 +75,7 @@ Customer loyalty and value vary across regions, revealing opportunities for targ
 - SQL-Based Customer Analysis Report
 - Customer Segmentation Framework
 - Power BI Founder Intelligence Dashboard (.pbix)
-- Power BI Dashboard Report (.pdf)
+- Power BI Dashboard Report (.jpeg)
 - Customer Retention Playbook
 - Executive Summary Report
 
@@ -82,7 +89,7 @@ Dataset.csv
 Feature_Engineering.ipynb
 SQL_Analysis.pdf
 Executive_Summary.pdf
-PowerBI_Dashboard.pdf
+Power BI_Dashboard.jpeg
 Decoding_Customer_Value_Dashboard.pbix
 README.md
 ```
@@ -109,15 +116,6 @@ README.md
 * Sustainable Revenue Growth
 
 ---
-## Dashboard Preview
-
-The repository includes:
-
-- `Decoding_Customer_Value_Dashboard.pbix` – Interactive Power BI project file.
-- `PowerBI_Dashboard.pdf` – Exported dashboard report for easy viewing without Power BI Desktop.
-
-Users without Power BI installed can review the dashboard through the PDF version.
-
 ## Authors
 
 * Piyush Chothani
